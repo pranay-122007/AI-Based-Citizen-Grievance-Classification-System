@@ -88,9 +88,6 @@ AI-Based-Citizen-Grievance-Classification-System/
 │
 ├── frontend/
 ├── backend/
-├── ai-module/
-├── database/
-├── docs/
 ```
 
 ---
