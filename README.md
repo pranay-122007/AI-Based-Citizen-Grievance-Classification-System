@@ -1,10 +1,6 @@
 # 🚀 AI-Based Citizen Grievance Classification System
 ## 📌 Overview
 
-An AI-powered platform that allows citizens to submit complaints via **text or voice**, which are automatically analyzed and classified into relevant government departments like **Road, Electricity, and Water**.
-
-OR
-
 This project is an AI-powered platform that allows citizens to submit complaints (via text or voice), which are automatically analyzed and classified into relevant departments such as **Road, Electricity, and Water**.
 
 🎯 Goal: Make grievance handling faster, smarter, and automated.
